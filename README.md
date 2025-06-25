@@ -158,6 +158,47 @@ Successfully deployed via Flask with live webcam stream.
 
 ![WhatsApp Image 2025-06-25 at 15 10 01_3e8e4e83](https://github.com/user-attachments/assets/8004fb50-99d0-4e2e-88c0-8886133cc908)
 
+**Frontend**
+
+![Screenshot 2025-06-25 212948](https://github.com/user-attachments/assets/b9b28050-a1c8-4dda-a992-9c68b9e6dee3)
+
+***Spanner***
+
+![Screenshot (298)](https://github.com/user-attachments/assets/59d7b77c-306d-41f3-a35e-6fb975ef61c4)
+
+***Hammer***
+
+![Screenshot (306)](https://github.com/user-attachments/assets/7de575e9-5be6-4f20-803d-f1efa192cc37)
+
+***Skrewdriver**
+
+![Screenshot (309)](https://github.com/user-attachments/assets/f962a05a-e302-4b17-b296-ff2d7aa68b45)
+
+***Tupperware Bottle***
+
+![Screenshot (315)](https://github.com/user-attachments/assets/0accda48-7004-4fcf-9200-03bb256e1072)
+
+***Plastic Bottle***
+
+![Screenshot (320)](https://github.com/user-attachments/assets/8a19f3a2-5edf-4fe3-aaa9-f46e52ead317)
+
+***Borosil Bottle***
+
+![Screenshot (325)](https://github.com/user-attachments/assets/d21f9a3a-a6b8-45a9-b04a-72ee284bb676)
+
+***Rose**
+
+![Screenshot (330)](https://github.com/user-attachments/assets/780b53a9-a15d-4e46-b793-4dfedc1a0546)
+
+***Hibiscus***
+
+![Screenshot (334)](https://github.com/user-attachments/assets/5516eba3-af97-4811-83d2-f769f4aac5ea)
+
+***Daisy***
+
+![Screenshot (345)](https://github.com/user-attachments/assets/72683ed2-fc38-46f7-a50a-d61201c41e7f)
+
+
 
 
 ## 10) Limitations & Challenges
