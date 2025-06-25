@@ -113,11 +113,12 @@ Achieved significant improvement in mAP and real-time detection accuracy after a
 * **Total images used**: 978 (balanced across 9 classes)
 * **Final model**: YOLOv5s, trained for 100 epochs
 
-✅ Successfully deployed via Flask with live webcam stream.
+Successfully deployed via Flask with live webcam stream.
 
 ---
+## 9) Output
 
-## 🚀 Future Improvements
+## 10) Future Improvements
 
 * Fine-tune using YOLOv8 or other transformers
 * Deploy on mobile/Jetson Nano for edge AI
