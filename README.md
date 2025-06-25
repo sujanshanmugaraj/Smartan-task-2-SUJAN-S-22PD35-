@@ -20,12 +20,15 @@ Build a real-time object detection system capable of identifying and classifying
    Used Roboflow to annotate and export in YOLOv5 format.
 
 3. **Model Training**
-   YOLOv5s was fine-tuned using custom data over 100 epochs.
+   YOLOv5m was fine-tuned using custom data over 100 epochs.
 
-4. **Model Evaluation**
+   ![Screenshot 2025-06-25 133432](https://github.com/user-attachments/assets/76fec44d-0ae8-461d-a945-89291cf416eb)
+
+
+5. **Model Evaluation**
    Precision, Recall, mAP50, and misclassifications tracked.
 
-5. **Deployment**
+6. **Deployment**
    Live webcam inference using OpenCV + Flask + HTML frontend.
 
 ---
@@ -55,6 +58,8 @@ Screwdriver
 Hammer
 
 Spanner
+
+![Screenshot 2025-06-24 220725](https://github.com/user-attachments/assets/b8c7e5d1-bb36-46dc-89cd-598dad451f44)
 
 ---
 
