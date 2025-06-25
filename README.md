@@ -122,8 +122,25 @@ Successfully deployed via Flask with live webcam stream.
 
 ---
 ## 9) Output
+## 10) Limitations & Challenges
 
-## 10) Future Improvements
+**1) Small Dataset for Some Classes**
+
+
+Initially had fewer images (under 50) for tupperware_bottle, borosil_bottle, etc., which impacted early model performance.
+
+**2) Class Confusion**
+
+
+Visually similar items like hammer, spanner, and screwdriver were often misclassified due to overlapping features.
+
+**3) Long Training Time on CPU**
+
+
+Local training took over 9 hours for 100 epochs, delaying experiments—partially resolved using Colab GPU.
+
+
+## 11) Future Improvements
 
 * Fine-tune using YOLOv8 or other transformers
 * Deploy on mobile/Jetson Nano for edge AI
