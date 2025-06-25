@@ -32,21 +32,24 @@ Build a real-time object detection system capable of identifying and classifying
 
 ## 3) Classes
 
-**Water Bottles**
+**1) Water Bottles**
+
 Borosil Bottle
 
 Plastic Bottle
 
 Tupperware Bottle
 
-**Flowers**
+**2) Flowers**
+
 Daisy Flower
 
 Hibiscus Flower
 
 Rose Flower
 
-**Tools**
+**3) Tools**
+
 Screwdriver
 
 Hammer
