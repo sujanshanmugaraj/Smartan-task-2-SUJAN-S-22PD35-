@@ -140,6 +140,26 @@ Successfully deployed via Flask with live webcam stream.
 --source /content/drive/MyDrive/dataset/train/images/bottle08_aug4_jpg.rf.ba097f3be8145bea5aa969f6281c291a.jpg \
 --name smartan_test
 
+![WhatsApp Image 2025-06-25 at 17 04 02_0a5aff64](https://github.com/user-attachments/assets/32be4267-30d3-4597-8158-12793ca1e457)
+
+![WhatsApp Image 2025-06-25 at 17 07 18_f6294710](https://github.com/user-attachments/assets/ed37217e-94be-4fd0-a399-59d975b31192)
+
+![WhatsApp Image 2025-06-25 at 17 10 59_3d057225](https://github.com/user-attachments/assets/0e6bac51-e2db-4576-8afc-6f1f8155a05b)
+
+![WhatsApp Image 2025-06-25 at 17 14 37_c6953667](https://github.com/user-attachments/assets/242f2677-1dd9-46f8-8b10-b848161b4f0c)
+
+![WhatsApp Image 2025-06-25 at 17 15 26_b2effae7](https://github.com/user-attachments/assets/dcf68177-6e5f-4b32-a975-1b1ae409663c)
+
+![WhatsApp Image 2025-06-25 at 17 16 11_8f4b30c3](https://github.com/user-attachments/assets/09ff6d60-fe26-4d93-8963-bea6b4bf1720)
+
+![WhatsApp Image 2025-06-25 at 17 16 55_e35951c7](https://github.com/user-attachments/assets/9976e86c-eb41-4b8c-962f-5c2ad2d2875f)
+
+![WhatsApp Image 2025-06-25 at 16 36 47_20839afa](https://github.com/user-attachments/assets/1773784e-eca2-4347-9072-412f61fbc8a2)
+
+![WhatsApp Image 2025-06-25 at 15 10 01_3e8e4e83](https://github.com/user-attachments/assets/8004fb50-99d0-4e2e-88c0-8886133cc908)
+
+
+
 ## 10) Limitations & Challenges
 
 **1) Small Dataset for Some Classes**
