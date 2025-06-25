@@ -1,5 +1,13 @@
 # Task: Object Detection with YOLO-based Fine-Tuning
 
+> **Name**: Sujan S  
+> **Roll No**: 22PD35  
+> **Course**: MSc Data Science
+
+## Video Explaination
+
+https://drive.google.com/file/d/1GT3UNzcg7BkTRr5SejtTpRpy5XNP0Q9C/view?usp=sharing
+
 ## 1) Problem Statement
 
 Build a real-time object detection system capable of identifying and classifying **custom objects** — including bottles, flowers, and tools — from live webcam input. The system should:
@@ -122,6 +130,16 @@ Successfully deployed via Flask with live webcam stream.
 
 ---
 ## 9) Output
+
+**Results got after testing on data**
+
+!python detect.py \
+--weights /content/yolov5/runs/train/smartan_yolo_v5m_finalrun2/weights/best.pt \
+--img 640 \
+--conf 0.25 \
+--source /content/drive/MyDrive/dataset/train/images/bottle08_aug4_jpg.rf.ba097f3be8145bea5aa969f6281c291a.jpg \
+--name smartan_test
+
 ## 10) Limitations & Challenges
 
 **1) Small Dataset for Some Classes**
