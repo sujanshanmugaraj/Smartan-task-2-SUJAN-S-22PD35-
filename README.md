@@ -186,7 +186,7 @@ Successfully deployed via Flask with live webcam stream.
 
 ![Screenshot (325)](https://github.com/user-attachments/assets/d21f9a3a-a6b8-45a9-b04a-72ee284bb676)
 
-***Rose**
+***Rose***
 
 ![Screenshot (330)](https://github.com/user-attachments/assets/780b53a9-a15d-4e46-b793-4dfedc1a0546)
 
