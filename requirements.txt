@@ -1,0 +1,14 @@
+torch>=1.7
+torchvision>=0.8
+numpy
+opencv-python
+matplotlib
+pillow
+pyyaml
+pandas
+seaborn
+requests
+scipy
+tqdm
+pycocotools
+ultralytics==8.0.20  

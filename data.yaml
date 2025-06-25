@@ -1,0 +1,7 @@
+train: ../dataset/train/images
+val: ../dataset/val/images
+
+nc: 9
+names: ['borosil_bottle', 'plastic_bottle', 'tupperware_bottle',
+        'daisy_flower', 'hibiscus_flower', 'rose_flower',
+        'screwdriver', 'hammer', 'spanner']
