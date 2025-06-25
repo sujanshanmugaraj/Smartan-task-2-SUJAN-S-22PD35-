@@ -32,15 +32,26 @@ Build a real-time object detection system capable of identifying and classifying
 
 ## 3) Classes
 
-* `borosil_bottle`
-* `plastic_bottle`
-* `tupperware_bottle`
-* `daisy_flower`
-* `hibiscus_flower`
-* `rose_flower`
-* `screwdriver`
-* `hammer`
-* `spanner`
+**Water Bottles**
+Borosil Bottle
+
+Plastic Bottle
+
+Tupperware Bottle
+
+**Flowers**
+Daisy Flower
+
+Hibiscus Flower
+
+Rose Flower
+
+**Tools**
+Screwdriver
+
+Hammer
+
+Spanner
 
 ---
 
